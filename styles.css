@@ -1,0 +1,6 @@
+span.fOyUs_bGBk[src],
+#nav-tray-portal > span > span > div > div > div > div > div > span > span[src],
+#global_nav_profile_link > div.menu-item-icon-container > div > img[src] {
+  visibility: hidden;
+  background-image: none;
+}
